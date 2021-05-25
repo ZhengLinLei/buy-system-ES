@@ -1,0 +1,5 @@
+Haga un acceso directo para manejar mas rapido
+
+//Doble click y se abrira
+
+Si no sabe como hacerlo, puede consultar el tutorial de la web-----------------------------------
